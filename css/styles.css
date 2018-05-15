@@ -1,0 +1,110 @@
+@import
+url('https://fonts.googleapis.com/css?family=Orbitron');
+
+a { border: 25px; }
+img { 
+    border-color:white;
+    }
+
+
+h1{
+    Font-size: 3em;
+    font-weight: bolder;
+    color: whitesmoke;
+    }
+h2{
+    Font-size: 2em;
+    font-weight: bold;
+    color: whitesmoke;
+    }
+
+h3{
+    font-size: 1.5em;
+    font-weight: bolder;
+    color: whitesmoke;
+ }
+h4{
+    font-size: 2.5em;
+    font-weight: normal;
+    color: grey;
+    }   
+h5{
+    font-size: 25px;
+    font-weight: normal;
+    color: grey;
+    }
+h6{
+    font-size: 1.75em;
+    font-weight: bolder;
+    color: black;
+    }
+p{
+    color: whitesmoke;
+    font-size: 1.2em;
+}
+p1{
+    color: whitesmoke;
+    font-size: 1.2em;
+}
+
+body{
+    margin: 0%;
+    border: 20px;
+    color:white;
+    background: black;
+    }
+
+nav{
+    font: 30px;
+    font-weight: bold;
+    color: white;
+   }
+
+.footer{    
+    color: whitesmoke;
+    text-align: justify;
+    font-weight: bolder;
+    border-color: black;
+    font-size: 25px;
+    background:forestgreen;
+    }
+
+.jumbotron{
+    text-align: left;
+    background-color: black;
+    padding: 0px;
+    color: whitesmoke;
+    font-size: 60px;
+    font-weight: bold;
+    }
+
+header {
+    background: left, forestgreen;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+    border: medium rgb(49,216,20);
+    padding: 20px;
+    font-family: Orbitron, sans-serif;
+}
+.wrap{
+    white-space: normal;
+}
+
+.homeDeck p{
+color: black;
+font-size: 15px;
+}
+
+.homeDeck .card-body {
+    height:230px;
+}
+
+.homeDeck a {
+    position: absolute;
+    bottom: 15px;
+}
+
+.boarder{
+    border: 5px;
+}
